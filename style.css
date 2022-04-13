@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 50%;
+    height: 100vh;
+    /* background-color: rgb(36, 83, 123); */
+    margin: 0 auto;
+
+}
+.taskList{
+    background-color: aqua;
+    font-size: larger;
+    border: 1px solid gray;
+}
+.button{
+    padding: 5px;
+}
+#newTask{
+    padding: 5px;
+}
+#colorPicker{
+    padding: 5px;
+}
